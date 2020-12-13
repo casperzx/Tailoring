@@ -1,6 +1,9 @@
 # Tailoring
 Tailoring school project done for Shorepoint Systems.
 
+# Front-end: Java, JSP, Servlet
+# Back-end: MySQL
+
 # Screenshots
 
 # <img src="https://bn1305files.storage.live.com/y4m2TjBYWDDvYLzTp-FPC0niu5DqWVVHPEYnUCd9Pae21MyrsF5HTBhVmEjKa0CuDQrhJG3zUQfbvQHvV112qwg3klUTcgpZkTKIXz9ZJp0nSFQnB8MzdLe6PjWd-lDEz5S7_5ETEvsmU3u-6BkiU5hPr7IcgFH-hc5KT65xj41eeBLPs5Lp9QnVzgzgOO9zrG3?width=1024&height=576&cropmode=none" width="1024" height="576" />
